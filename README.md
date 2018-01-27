@@ -12,12 +12,18 @@ Este documento provê uma visão geral da versão do aplicativo JokenPO que est�
 
 
 NOTA DE RELEASE A SER PUBLICADO 
-•	1 – Corrigido falha no empate que fazia o CPU ganhar 
+•	1 – Corrigido falha no empate que fazia o CPU ganhar
+
 • 2 – Inserido Regras
+
 •	3 – Inserido nome do jogador caso ele ganhe, "editado Você venceu"
+
 •	4 – Corrigido opção >2 caso o jogador digitasse por exempro o numero 3 inexistente agora valida como opção invalida
+
 •	5 – Inserido menssagem para sair 
+
 •	6 – Inserido placar igualado caso seja empate 
+
 •	7 - Retirado imagem de demonstração repitida  
 
 
