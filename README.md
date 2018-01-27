@@ -12,6 +12,7 @@ Este documento provê uma visão geral da versão do aplicativo JokenPO que est�
 
 
 NOTA DE RELEASE A SER PUBLICADO 
+
 •	1 – Corrigido falha no empate que fazia o CPU ganhar
 
 • 2 – Inserido Regras
