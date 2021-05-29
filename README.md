@@ -2,7 +2,6 @@
 Projeto de jogo JokenPo aprendido pela faculdade  (imagens no link)
 https://programandocomojonatha.blogspot.com.br/2016/06/projeto-jogo-jo-ken-po-pedra-papel-e.html
 
-JÔNATHA MENDONÇA DOS SANTOS 
 
 NOTA DE LIBERAÇÃO
 
@@ -59,6 +58,3 @@ ATIVIDADES REALIZADAS NO PERÍODO
 
 Efetuado contrução do projeto, correções e aprimoramentos.
 
-REFERÊNCIAS
-
-https://programandocomojonatha.blogspot.com.br/2016/06/projeto-jogo-jo-ken-po-pedra-papel-e.html
