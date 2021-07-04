@@ -52,7 +52,7 @@ Design pattern	Google
 PROCEDIMENTO E ALTERAÇAO DE CONFIGURAÇÃO DO AMBIENTE 
 Descrever o processo de implantação. 
 Efetuar download do projeto compactado em https://github.com/jonathadev/Projeto-JokenPO-Linguagem-C/archive/master.zip
-Executar o exutavel do Jogo Exercício 2803 Jônatha Mendonça dos Santos RA 534595.EXE
+Executar o exutavel do Jogo Exercício 2803 .EXE
 
 ATIVIDADES REALIZADAS NO PERÍODO
 
